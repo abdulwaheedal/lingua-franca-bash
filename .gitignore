@@ -1,0 +1,6 @@
+*.log
+*.swp
+*.tmp
+*.bak
+.DS_Store
+project_log.sh~
