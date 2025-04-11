@@ -6,7 +6,31 @@ A hands-on terminal project to practice fundamental Bash commands, file operatio
 
 ## 📁 Project Structure
 
-lingua-franca/ ├── africa/ │ ├── afrihili.txt │ └── afrikaans.txt ├── asia/ │ ├── chinese.txt │ ├── bengali.txt │ └── punjabi.txt ├── europe/ │ ├── spanish.txt │ └── yiddish.txt ├── northamerica/ │ └── spanish.txt ├── southamerica/ │ └── spanish.txt ├── world/ │ └── esperanto.txt ├── todo/ │ ├── asian_language_files.txt │ └── empty_files.txt ├── project_log.sh └── README.md
+```
+lingua-franca/
+├── africa/
+│   ├── afrihili.txt
+│   └── afrikaans.txt
+├── asia/
+│   ├── chinese.txt
+│   ├── bengali.txt
+│   └── punjabi.txt
+├── europe/
+│   ├── spanish.txt
+│   └── yiddish.txt
+├── northamerica/
+│   └── spanish.txt
+├── southamerica/
+│   └── spanish.txt
+├── world/
+│   └── esperanto.txt
+├── todo/
+│   ├── asian_language_files.txt
+│   └── empty_files.txt
+├── project_log.sh
+└── README.md
+```
+
 ---
 
 ## 🚀 How to Run
